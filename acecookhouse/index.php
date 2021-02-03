@@ -64,7 +64,7 @@
 <div class="row">
   <div class="col-sm-9">
     <br><br><br>
-    <div style="background-color: #212529; color: white; margin-left: 10px; margin-right: 10px; border-radius: 25px;">
+    <div style="background-color: #212529; color: white; margin-left: 10px; margin-right: 10px; border-radius: 25px; padding: 20px;">
       <div class="row">
         
       <div class="col-sm-5">
@@ -110,11 +110,11 @@
       <div class="col-sm-6 container">
         <br><br>
           <caption><center><h5>MENU</h5></center></caption>
-        <table class="table" style="color: white; background-color: #A02E45; padding-top: 20px;">
+        <table class="table" style="color: white;">
           <thead>
             <tr>
               <th>Order no.</th>
-              <th colspan="2">Dish</th>
+              <th colspan="2">Name</th>
               <th>Price</th>
             </tr>
           </thead>
@@ -143,12 +143,6 @@
               <th>103</th>
               <td colspan="2">Chicken Galouti kabab</td>
               <td>350Rs.</td>
-            </tr>
-            <br>
-            <tr>
-            <th>VEG</th>
-            </tr>
-
           </tbody>
         </table>
       </div>
@@ -162,7 +156,7 @@
 
 
 
-  <div class="col-sm-3" style="background-color: #212529; padding-bottom: 200px; color: white; border: 2px white;">
+  <div class="col-sm-3" style="background-color: #212529; padding-bottom: 200px; color: white; border: 2px white; margin-top: 10px;">
     <br>
     <CENTER><U><H5>CART</H5></U></CENTER>
     <br>  
